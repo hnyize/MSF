@@ -29,4 +29,3 @@ and then restart docker:
 rc-service docker restart
 ```
 
-Enjoy, Francesco
